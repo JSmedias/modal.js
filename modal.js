@@ -1,4 +1,4 @@
-/*!*/
+/*JS - https://www.jsdelivr.com!*/
 ! function(t, e) {
 	"object" == typeof exports && "undefined" != typeof module ? e(exports, require("jquery")) : "function" == typeof define && define.amd ? define(["exports", "jquery"], e) : e((t = "undefined" != typeof globalThis ? globalThis : t || self).index= {}, t.jQuery)
 }(this, (function(t, e) {
